@@ -28,6 +28,7 @@ ForeColor="Maroon"></asp:Label></td>
                         <td colspan="2" align="center">
                             <asp:GridView ID="GridView1" runat="server" CssClass="grid" BackColor="LightGoldenrodYellow" BorderColor="Tan" BorderWidth="1px" CellPadding="2"
 ForeColor="Black" GridLines="None" AutoGenerateColumns="False">
+
                                 <AlternatingRowStyle BackColor="PaleGoldenrod" />
                                 <FooterStyle BackColor="Tan" />
                                 <HeaderStyle BackColor="Tan" Font-Bold="True" />
